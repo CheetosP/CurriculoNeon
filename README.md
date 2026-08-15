@@ -1,7 +1,5 @@
 # Currículo Neon
 
-<p><strong>Currículo Neon</strong></p>
-
 ### Sobre
 
 Currículo Neon é sobre uma página WEB que contém um currículo com design moderno, contendo aba para contato, portfólio, formação e informações sobre mim.
