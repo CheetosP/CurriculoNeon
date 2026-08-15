@@ -1,11 +1,11 @@
-/* Estilo geral do site */
+/* corpo do site, fundo */
 body {
   font-family: Arial, sans-serif;
   padding: 20px;
   background-color: #212936;
 }
 
-/* Estiliza o menu */
+/* Estiliza a barra de navegação */
 nav {
   background-color: #e10e62;
   padding: 10px 0;
@@ -13,44 +13,39 @@ nav {
   border-radius: 20px;
 }
 
+/* centraliza textos da barra de navegação*/
 nav ul {
   list-style: none;
   text-align: center;
   margin: 5px;
 }
 
+/* diagonal barra de navegação */
+
 nav ul li {
   display: inline;
   margin: 30px;
 }
 
+/* estilizar texto da barra de navegação */
 nav ul li a {
   text-decoration: none;
   font-weight: bold;
   color: #2a3444;
 }
 
+/* efeito ao passar mouse na barra de navegação */
 nav ul li a:hover {
   color: #98dbff;
 }
 
-/* Área principal 
-main {
-  max-width: 800px;
-  margin: 40px auto;
-  padding: 20px;
-  background: #293187;
-  border-radius: 10px;
-  text-align: center;
-  color: #c9c9c9;
-}
-*/
-/* Estilo do formulário de contato */
+/* estilização do formulário de contato */
 form {
   display: flex;
   flex-direction: column;
 }
 
+/* complemento do formulário de contato */
 input, textarea {
   padding: 10px;
   margin: 10px 0;
@@ -81,21 +76,27 @@ p {
   color: #6600ff;
 }
 
+/* personalização só para os links do Portfólio */
 .links {
-  max-width: 300px;
-  margin: 10px auto;
+  max-width: 350px;
+  margin: 20px auto;
   color: #ff7300;
+  font-size: 20px;
+  font-style: normal
 }
 
+/* estilo do formulário */
 .formulario {
   max-width: 500px;
   margin: auto;
   padding: 20px;
-  background: #151515;
+  background: #1c2129;
   text-align: center;
   color: white;
+  border-bottom: 1px solid #ff7300;
 }
 
+/* botão Enviar */
 .botao {
   background-color: #e10e62;
   color: #000000;
@@ -126,4 +127,3 @@ p {
   font-size: 20px;
   font-weight: bold;
 }
-
