@@ -8,7 +8,7 @@ Currículo Neon é sobre uma página WEB que contém um currículo com design mo
 
 ### Página Inicial:
 
-<img width="2475" height="1328" alt="curriculoTrabalho" src="https://github.com/user-attachments/assets/a73c883d-c0a2-4223-9615-5e0fdb7c5506" />
-<img width="2475" height="1328" alt="image" src="https://github.com/user-attachments/assets/6c9b737f-ad18-4382-b249-db9170b47f4a" />
+<img width="2475" height="1328" alt="image" src="https://github.com/user-attachments/assets/f7492e2a-6b28-4350-aa54-c87eccae1ba4" />
+
 
 
